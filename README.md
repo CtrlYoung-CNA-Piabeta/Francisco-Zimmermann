@@ -9,3 +9,6 @@ repositorio para armazenar as aulas do
 - staging area área de preparação
 - local repository repositorio local que será enviado para o GitHub
 - remote repository repositorio remoto
+
+
+### Este repositorio pertence a Francisco
